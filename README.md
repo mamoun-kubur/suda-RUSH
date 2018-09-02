@@ -7,7 +7,7 @@
 
 
  
- ![An image](game_post.png) <!-- .element height="50%" width="50%" -->
+ ![An image](game_poster.png) <!-- .element height="50%" width="50%" -->
  ![An image](Screenshot1.png) <!-- .element height="50%" width="50%" -->
  ![An image](Screenshot2.png) <!-- .element height="50%" width="50%" -->
  ![An image](Screenshot3.png) <!-- .element height="50%" width="50%" -->
