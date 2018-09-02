@@ -5,7 +5,7 @@
  
  [download the game here :)](https://drive.google.com/open?id=1oUI3GWJix1iu65Z5yQOTELvJvD4Hz0n-)
  
- <img src="game_poster.png" width="1080" height="600">
+ <img src="game_poster.png" width="1080" height="450">
  
 
  
